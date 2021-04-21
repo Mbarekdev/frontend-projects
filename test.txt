@@ -1,4 +1,5 @@
-This file contain the first text with github learning technics
+This file contain the first text with github learning technics and branch text
 sorry f I make lot of mistakes weirdo.
 add new line to my file
 add other line to file
+this line is for branch learning
