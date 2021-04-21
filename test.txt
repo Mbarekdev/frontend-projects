@@ -4,3 +4,4 @@ add new line to my file
 add other line to file
 this line is for branch learning
 I'm adding a second branch test
+I like playing on the main file
